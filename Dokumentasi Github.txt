@@ -1,0 +1,38 @@
++++++++++++++++>Cara membuat projek baru di CS code & Library <++++++++++++++++++++++
+1. Pilih menu PLATFORMIO 
+2. Pilih Quick Access > open
+3. Pilih New Project
+4. Project Wizard > Name (Nama Projek), Board (sesuai microkontroler)
+5. Lalu Tekan Finish
+6. Klick PIO HOME > Librari > (pilih Librari yang akan di butuhkan)
+7. Pilih nama projek yang akan diinstall librari, dan lihat sampai keterangan done dan berwarna hijau
+
++++++++++++++++> Cara membuat workspace baru untuk file projek dan GIT <++++++++++++++++++
+1. Buat folder untuk penyimpanan workspace projek
+2. Pilih menu file di CSCode
+
++++++++++++++++> Cara Menyambungkan Local ke GIT <++++++++++++++++++++
+1 buka terminal klick projek > klik kanan >
+2. git init ( untuk menginstall membuat repositori baru)
+3. git remote add origin " nama Link https git", contoh git remote add origin https://github.com/Febriyandi12/BBBB.git
+4. git branch (sesuai keinginan), contoh git branch master
+5. git add .
+6. git commit -m "komentar update terbaru"
+7. git push origin (nama branch), contoh git push origin master
+
+
+++++++++++++++> Cara Clone dari github menggunakan VScode dan Folder sama<+++++++++++++++++++++++++
+Clone projek di vscode
+1. buka new windows vscode
+2. pilih menu clone
+3. masukkan link https yang dari github *perhatikan link dapat diakses saat setingan publik
+
+Clone pada folder
+1. buat folder yang sudah disiapkan untuk berkas yang mau diambil dari github
+2. klick kanan mouse, pilih git bash
+3. ketik git clone (https yang sudah disetting publik), contoh git clone https://github.com/Febriyandi12/Mastealarm
+
+++++++++++++++> Link sumber perintah github <++++++++++++++++++++
+https://www.hostinger.co.id/tutorial/cara-menggunakan-github-perintah-dasar-github
+https://github.com/Febriyandi12/Mastealarm
+https://gist.github.com/rikyperdana/f04430f8441bd8655a214ecd7b93efcd
