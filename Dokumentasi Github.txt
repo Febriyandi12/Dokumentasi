@@ -34,5 +34,4 @@ Clone pada folder
 
 ++++++++++++++> Link sumber perintah github <++++++++++++++++++++
 https://www.hostinger.co.id/tutorial/cara-menggunakan-github-perintah-dasar-github
-https://github.com/Febriyandi12/Mastealarm
 https://gist.github.com/rikyperdana/f04430f8441bd8655a214ecd7b93efcd
