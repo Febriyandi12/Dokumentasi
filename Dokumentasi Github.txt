@@ -1,4 +1,4 @@
-+++++++++++++++>Cara membuat projek baru di CS code & Library <++++++++++++++++++++++
++++++++++++++++>Cara membuat projek baru di VScode & Library <++++++++++++++++++++++
 1. Pilih menu PLATFORMIO 
 2. Pilih Quick Access > open
 3. Pilih New Project
