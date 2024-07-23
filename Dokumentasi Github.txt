@@ -19,7 +19,8 @@
 5. git add .
 6. git commit -m "komentar update terbaru"
 7. git push origin (nama branch), contoh git push origin master
-
+8. apabila eror " ! [rejected]        master -> master (non-fast-forward)" solusi
+9. git push -f origin master (pakai cara ini saat push)
 
 ++++++++++++++> Cara Clone dari github menggunakan VScode dan Folder sama<+++++++++++++++++++++++++
 Clone projek di vscode
